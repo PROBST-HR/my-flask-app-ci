@@ -27,7 +27,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: <dianapukhova>/my-flask-app:latest
+        tags: dianapukhova/my-flask-app:latest
 
     - name: Deploy
       run: echo "Deployment step (пока просто сообщение)"
