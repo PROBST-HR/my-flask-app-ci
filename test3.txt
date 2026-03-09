@@ -1,0 +1,1 @@
+Это тест после исправления Docker Hub username
